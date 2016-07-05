@@ -1,5 +1,5 @@
 # Allergies
-Exploratory data analysis on common respiratory allergens
+##Exploratory data analysis on common respiratory allergens
 
 References related to this work:
 
